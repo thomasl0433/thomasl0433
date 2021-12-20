@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thomasl0433
 - 👀 I’m interested in Music, Understanding how things work, Web Design
 - 🌱 I’m currently learning React, Angular, AWS, Azure, Swift, Node.js, MongoDB
-- 💞️ I’m looking to collaborate on Music or Mental Health related projects
+- 💞️ I’m looking to collaborate on Music 🎸 or Mental Health 🧠 related projects
 - 📫 How to reach me thomas.levine@9904@gmail.com
 
 <!---
